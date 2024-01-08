@@ -1,1 +1,2 @@
-# minera_life_waterbot
+# minera_life_waterbot\n
+s
